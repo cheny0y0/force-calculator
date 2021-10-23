@@ -4,7 +4,9 @@ Calculate many things by Python 3.
 If you didn't install module tkinter yet, please install it:
 * Windows  
 reinstall Python with choosing “Install tcl/tk”
-* Debian and releases based Debian  
+* GNU/Linux
 open terminal and type ```pip3 install tcl tk```
+* Debian and releases based Debian  
+open terminal and type ```sudo apt-get install python-tk```
 * macOS  
 reinstall Python with tcl and tk
